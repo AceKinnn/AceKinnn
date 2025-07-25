@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 # Contacts
 <a href="mailto:gracekindyy@gmail.com">
-  <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" width="50" height="50">
+  <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" width="25" height="25">
 </a>
+
 <a href="https://www.linkedin.com/in/grace-oktaviani-kindy/" target="_self">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25">
 </a>
