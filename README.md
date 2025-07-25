@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/grace-oktaviani-kindy/" target="_self">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25">
 </a>
+
+<a href="https://www.kaggle.com/acekin" target="_self">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="25" height="25">
+</a>
